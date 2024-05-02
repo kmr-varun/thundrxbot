@@ -23,7 +23,7 @@
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "mongodb+srv://kmr11varun:<password>@hamsterworld.1pa7rhx.mongodb.net/"
+      "value": "mongodb+srv://kmr11varun:mBO83WWnsRSSzuch@hamsterworld.1pa7rhx.mongodb.net/"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
